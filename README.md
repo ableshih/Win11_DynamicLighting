@@ -4,6 +4,7 @@
 
 [![IMAGE ALT TEXT]()]([https://www.youtube.com/watch?v=1AXZpPtm2w0](https://www.youtube.com/watch?v=1AXZpPtm2w0) "Win11_DynamicLighting")
 
+[![IMAGE ALT TEXT](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/unnamed.jpg)](https://www.youtube.com/watch?v=1AXZpPtm2w0 "Unity Snake Game")
 
 # LampArray
 
