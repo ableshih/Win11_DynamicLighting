@@ -4,7 +4,7 @@
 
 [![](https://youtu.be/1AXZpPtm2w0?si=en8JgQISO3k36l5K)]
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GtlcOowVptU/0.jpg)]([https://www.youtube.com/watch?v=GtlcOowVptU](https://youtu.be/1AXZpPtm2w0?si=en8JgQISO3k36l5K) "Unity Snake Game")
+[![IMAGE ALT TEXT]()]([https://youtu.be/1AXZpPtm2w0?si=en8JgQISO3k36l5K](https://youtu.be/1AXZpPtm2w0?si=en8JgQISO3k36l5K) "Unity Snake Game")
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GtlcOowVptU/0.jpg)](https://youtu.be/1AXZpPtm2w0?si=en8JgQISO3k36l5K "Unity Snake Game")
