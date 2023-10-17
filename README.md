@@ -2,7 +2,7 @@
 
 ![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/unnamed.jpg)
 
-[![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/mqdefault.jpg)](https://www.youtube.com/watch?v=1AXZpPtm2w0 "DynamicLighting")
+[![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/mqdefault.jpg)](https://www.youtube.com/watch?v=1AXZpPtm2w0 "youtube")
 
 # LampArray
 
