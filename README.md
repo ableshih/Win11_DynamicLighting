@@ -2,9 +2,7 @@
 
 ![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/unnamed.jpg)
 
-[![IMAGE ALT TEXT]()]([https://www.youtube.com/watch?v=1AXZpPtm2w0](https://www.youtube.com/watch?v=1AXZpPtm2w0) "Win11_DynamicLighting")
-
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/1AXZpPtm2w0/mqdefault.jpg)](https://www.youtube.com/watch?v=1AXZpPtm2w0 "Unity Snake Game")
+[![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/mqdefault.jpg)](https://www.youtube.com/watch?v=1AXZpPtm2w0 "DynamicLighting")
 
 # LampArray
 
