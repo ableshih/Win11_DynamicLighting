@@ -2,8 +2,8 @@
 
 ![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/unnamed.jpg)
 
-[![Win11 23H2 Dynamic Lighting 動態光源裝置](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/mqdefault.jpg)](https://www.youtube.com/watch?v=1AXZpPtm2w0 "youtube") Win11 23H2 Dynamic Lighting 動態光源裝置
-
+[![Win11 23H2 Dynamic Lighting 動態光源裝置](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/mqdefault.jpg)](https://www.youtube.com/watch?v=1AXZpPtm2w0 "youtube") 
+![](https://www.youtube.com/watch?v=1AXZpPtm2w0 Win11 23H2 Dynamic Lighting 動態光源裝置)
 
 ![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/2023-10-17%20150712.png)
 ![](https://github.com/ableshih/Win11_DynamicLighting/blob/main/jpg/2023-10-17%20150622.png)
